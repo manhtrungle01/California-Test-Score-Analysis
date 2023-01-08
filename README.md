@@ -16,4 +16,5 @@ Duties involved:
 - Model fitting and evaluating
 - Variance Inflation Factor (VIF) Analysis
 - Final business advice
+
 !: As this is a Group work, it is acknowledged that other contributors be added to this repository where their Github profiles have been identified.
